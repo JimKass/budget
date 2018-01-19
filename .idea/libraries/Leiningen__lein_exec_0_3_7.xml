@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: lein-exec:0.3.7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/lein-exec/lein-exec/0.3.7/lein-exec-0.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
