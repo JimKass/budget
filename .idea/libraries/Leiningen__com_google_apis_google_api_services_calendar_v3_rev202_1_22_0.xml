@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.google.apis/google-api-services-calendar:v3-rev202-1.22.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/apis/google-api-services-calendar/v3-rev202-1.22.0/google-api-services-calendar-v3-rev202-1.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

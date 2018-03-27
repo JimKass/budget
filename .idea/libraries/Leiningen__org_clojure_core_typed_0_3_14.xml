@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: org.clojure/core.typed:0.3.14">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/core.typed/0.3.14/core.typed-0.3.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
